@@ -1,0 +1,9 @@
+# Golden Path — code ownership
+# Platform team reviews all framework and CLI changes.
+# Any two engineers can review documentation changes.
+
+*                          @JulioElCesar/platform-team
+src/constructs/            @JulioElCesar/platform-team
+src/workflows/             @JulioElCesar/platform-team
+cli/src/gp/                @JulioElCesar/platform-team
+*.md                       @JulioElCesar/platform-team
